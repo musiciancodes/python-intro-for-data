@@ -1,0 +1,3 @@
+docs/lib*
+docs/.ipynb_checkpoints*
+docs/node_modules*
